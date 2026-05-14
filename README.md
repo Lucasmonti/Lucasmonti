@@ -23,10 +23,10 @@ I focus on clean architecture, solid UI/UX integration, and continuous learning.
 ### 🚀 Featured Projects
 
 **Quickish - Food Delivery Platform** An enterprise-grade, full-stack web application for an on-demand food delivery service. Features include a scalable backend architecture, dynamic frontend rendering, and a custom UI/UX design.  
-*Tech: Angular · Spring Boot · MySQL · TypeScript* [View Repository](https://github.com/jopiatomas/proyecto-final)[View Page](https://quickish-frontend.vercel.app/login)
+*Tech: Angular · Spring Boot · MySQL · TypeScript* [View Repository](https://github.com/jopiatomas/proyecto-final)  |  [View Page](https://quickish-frontend.vercel.app/login)
 
 **Transporte Monti - Institutional Website** Corporate landing page focused on a faithful UI/UX reproduction from source design to code, ensuring a professional and responsive digital presence.  
-*Tech: HTML · CSS · JavaScript* [View Repository](https://github.com/Lucasmonti/TransporteMonti)[View page](https://www.transportemonti.com.ar/)
+*Tech: HTML · CSS · JavaScript* [View Repository](https://github.com/Lucasmonti/TransporteMonti)  |  [View page](https://www.transportemonti.com.ar/)
 
 ---
 
